@@ -1,0 +1,7 @@
+#Mon Dec 05 23:03:04 CST 2016
+base.0=/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c7f21b7b5b832a5216bdadb712d0fdd6fc5ab5d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dc426fffbfe0ae81b1a374e540192127912de763/classes.dex
+base.1=/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dc426fffbfe0ae81b1a374e540192127912de763
+file.0=/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c7f21b7b5b832a5216bdadb712d0fdd6fc5ab5d/classes.dex

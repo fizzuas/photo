@@ -1,0 +1,68 @@
+[
+    {
+        "outputFile": "/Users/fizzuas/Documents/git/Photo/slideSwitch/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 48,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/Users/fizzuas/Documents/git/Photo/slideSwitch/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 48,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "/Users/fizzuas/Documents/git/Photo/slideSwitch/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "/Users/fizzuas/Documents/git/Photo/slideSwitch/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 812
+                    }
+                }
+            }
+        ]
+    }
+]
