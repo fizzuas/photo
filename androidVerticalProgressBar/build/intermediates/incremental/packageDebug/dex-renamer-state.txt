@@ -1,0 +1,7 @@
+#Tue Dec 06 15:31:07 CST 2016
+base.0=F\:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_648bbe106459323939341fd4f5434b3d506ee573
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c234c7bfc3097e14def87ba1a231e4a9adb804bd\\classes.dex
+base.1=F\:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c234c7bfc3097e14def87ba1a231e4a9adb804bd
+file.0=F\:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_648bbe106459323939341fd4f5434b3d506ee573\\classes.dex

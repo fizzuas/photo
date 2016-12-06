@@ -3,93 +3,75 @@
 
     <item
         is-multidex="true"
-        jar="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="277565137a85e3e248197b3f8334fb43eb2d37e8">
-        <dex dex="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c7f21b7b5b832a5216bdadb712d0fdd6fc5ab5d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_7f11f30ba6174482a36348da89175e5f1c0e8c87/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_5236984126a690538e5ede2065a363a792d4c2d0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_63426d7b7791e5983f5a09cd722b420d70d7c4fa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="4bbc62332c2f7508ce574396cd43babc7da51976">
-        <dex dex="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dc426fffbfe0ae81b1a374e540192127912de763/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="277565137a85e3e248197b3f8334fb43eb2d37e8">
-        <dex dex="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c7f21b7b5b832a5216bdadb712d0fdd6fc5ab5d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/fizzuas/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6f95ea88b12c1b39fc563cdc3af0306e46ae1590/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="4c28662990b46fe477db73ccc501b58e4bdfea0d">
-        <dex dex="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dc426fffbfe0ae81b1a374e540192127912de763/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_338d64e9c03e03c59244e2f447fff3975bf8ca87/classes.dex" />
+        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_2d8c5559dbb9e46b672897e9baae965f0096ebbd\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_9ae45c2e75e89a28c9ec3ecf1ab4d66f3e1c76d2/classes.dex" />
+        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_a59380c59a1caf4698ab684e9fcceacf90bf9903\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_43a375cebf2dcb3f8646b5822931c27d35ccae68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_04dbc0f158dbfda24379c9a41bf3350c086340ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82abfd7eadb7f9bb4f93ad1e9f74869b08752e37">
+        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_648bbe106459323939341fd4f5434b3d506ee573\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_4e90221604f7a60b0139d585556adbec38efc346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_b9d1a6f82c430e271c75530522a86afc5a3396a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9eebae41f1a013ed2fd64da51a1865d582f212d">
+        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c234c7bfc3097e14def87ba1a231e4a9adb804bd\classes.dex" />
     </item>
 
 </items>

@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <!--style="@style/MySeekBar"-->
+    <!--style="@android:style/Widget.DeviceDefault.SeekBar"-->
+    <com.halzhang.android.verticalprogressbar.MyVerticalSeekBar
+        android:id="@+id/myVerticalBar"
+        android:layout_width="25dp"
+        android:layout_height="300dp"
+       android:layout_gravity="center_horizontal"
+android:background="#ff0000"
+        android:layout_marginTop="30dp"
+        />
+    <SeekBar
+        android:id="@+id/seebar"
+        android:layout_gravity="center_horizontal"
+        android:thumb="@drawable/circle"
+        android:progress="15"
+        android:layout_marginTop="10dp"
+        android:progressDrawable="@drawable/play_seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:maxHeight="2dip"
+        android:minHeight="2dip"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:indeterminate="false"/>
+
+    <!--<com.halzhang.android.verticalprogressbar.VerticalProgressBar-->
+        <!--style="@android:style/Widget.ProgressBar.Horizontal"-->
+        <!--android:id="@+id/verticalProgressBar"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:max="1000"-->
+        <!--android:progress="500"-->
+        <!--android:maxWidth="10dip"-->
+        <!--android:minWidth="10dip" />-->
+</LinearLayout>

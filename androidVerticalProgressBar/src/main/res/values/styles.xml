@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light"/>
+
+
+    <!--<style name="Widget.Material.MySeebar">-->
+        <!--<item name="indeterminateOnly">false</item>-->
+        <!--&lt;!&ndash;进度条drawable&ndash;&gt;-->
+        <!--<item name="progressDrawable">@drawable/seekbar_track_material</item>-->
+        <!--&lt;!&ndash;indeterminateDrawable 设置绘制不显示进度的进度条的Drawable对象&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="indeterminateDrawable">@drawable/seekbar_track_material</item>&ndash;&gt;-->
+        <!--<item name="thumb">@drawable/circle</item>-->
+        <!--<item name="splitTrack">true</item>-->
+        <!--<item name="useDisabledAlpha">false</item>-->
+        <!--<item name="focusable">true</item>-->
+        <!--<item name="paddingStart">16dip</item>-->
+        <!--<item name="paddingEnd">16dip</item>-->
+        <!--<item name="mirrorForRtl">true</item>-->
+    <!--</style>-->
+
+</resources>

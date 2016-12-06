@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="unspecified"><source path="/Users/fizzuas/Documents/git/Photo/testLibs/build/intermediates/exploded-aar/Photo/slideSwitch/unspecified/assets"/></dataSet><dataSet config="main"><source path="/Users/fizzuas/Documents/git/Photo/testLibs/src/main/assets"/><source path="/Users/fizzuas/Documents/git/Photo/testLibs/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/fizzuas/Documents/git/Photo/testLibs/src/debug/assets"/></dataSet></merger>
