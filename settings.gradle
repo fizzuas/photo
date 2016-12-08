@@ -1,4 +1,4 @@
-include ':app', ':testslider'
+include ':app', ':testslider', ':testcircleimg'
 include ':slideSwitch'
 include ':testLibs'
 include ':androidVerticalProgressBar'

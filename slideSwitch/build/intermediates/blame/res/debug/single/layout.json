@@ -8,16 +8,16 @@
         "source": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "F:\\oyx\\git\\photo\\slideSwitch\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",

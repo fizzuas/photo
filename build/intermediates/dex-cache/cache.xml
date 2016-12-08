@@ -3,75 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_2d8c5559dbb9e46b672897e9baae965f0096ebbd\classes.dex" />
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_a6d679dec02a35289b316f3b464aa9c407867d15\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jar="F:\oyx\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_a59380c59a1caf4698ab684e9fcceacf90bf9903\classes.dex" />
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_b054e2860fcd80dca3732116d0baf215cd49ecd8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_43a375cebf2dcb3f8646b5822931c27d35ccae68\classes.dex" />
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_936a0af5b7715d65d4d86ef139bcb1ff8f6b6025\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\oyx\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_04dbc0f158dbfda24379c9a41bf3350c086340ec\classes.dex" />
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_f28e6e57c29e6ebfc63633b76c8c6cb005b8ff65\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="82abfd7eadb7f9bb4f93ad1e9f74869b08752e37">
-        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_648bbe106459323939341fd4f5434b3d506ee573\classes.dex" />
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_aa740f5dc00447f2c5e6636b91540fa6a4527739\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_4e90221604f7a60b0139d585556adbec38efc346\classes.dex" />
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d41a6b249e5a8e253fd0bc89d66249b0a02570d2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_b9d1a6f82c430e271c75530522a86afc5a3396a0\classes.dex" />
+        revision="25.0.1"
+        sha1="6033738bb2e4413b341de94ca85fb6c989fc6dbf">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7b78dcde0c8b54fe89e099eb88dc36a2653cf17e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.3"
-        sha1="d9eebae41f1a013ed2fd64da51a1865d582f212d">
-        <dex dex="F:\oyx\git\photo\androidVerticalProgressBar\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c234c7bfc3097e14def87ba1a231e4a9adb804bd\classes.dex" />
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_024e5a3b6d7ee48438e311eb2cae31dac9dc37a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_3ddbe842d64ae46045b43d2147a9635640c64758\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4c5bbff9a668f67a25d73c91af51f6481f6212be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_37c367520fdfdea7c0f8055f8baa094344130ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_895a30d52494f6ada31a2605d59b58c5c9acf88f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_0f5b08437db646016de76b608daf64dce61b01dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="12c0b91e683aa88924a3391579283d2d9e3cbcd2">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c39a6ad362593ca288b2a3f22332b9ed62b800a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_31d093ad6da11a040a318077a0f4a29f285a218a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_a195014f89d3ea70a639bacd5f5de3fe6bf68d80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\oyx\git\photo\testcircleimg\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\oyx\git\photo\testcircleimg\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_f180534c1bfa08be3e96d64733d18f6cba5116b6\classes.dex" />
     </item>
 
 </items>

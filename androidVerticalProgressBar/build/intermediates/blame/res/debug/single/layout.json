@@ -140,12 +140,12 @@
         "source": "F:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "F:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "F:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
         "merged": "F:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "F:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "F:\\oyx\\git\\photo\\androidVerticalProgressBar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
