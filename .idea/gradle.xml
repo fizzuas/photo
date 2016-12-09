@@ -9,12 +9,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/androidVerticalProgressBar" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/slideSwitch" />
-            <option value="$PROJECT_DIR$/testLibs" />
+            <option value="$PROJECT_DIR$/slideSwitchmaster" />
             <option value="$PROJECT_DIR$/testcircleimg" />
             <option value="$PROJECT_DIR$/testslider" />
+            <option value="$PROJECT_DIR$/xSwitch" />
+            <option value="$PROJECT_DIR$/xSwitchlib" />
+            <option value="$PROJECT_DIR$/xVerticalProgressBar" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

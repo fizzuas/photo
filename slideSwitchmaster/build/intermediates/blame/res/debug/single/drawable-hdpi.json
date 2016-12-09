@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\oyx\\git\\photo\\slideSwitchmaster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top.png",
+        "source": "F:\\oyx\\git\\photo\\slideSwitchmaster\\src\\main\\res\\drawable-hdpi\\top.png"
+    },
+    {
+        "merged": "F:\\oyx\\git\\photo\\slideSwitchmaster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_switch_on.png",
+        "source": "F:\\oyx\\git\\photo\\slideSwitchmaster\\src\\main\\res\\drawable-hdpi\\bg_switch_on.png"
+    },
+    {
+        "merged": "F:\\oyx\\git\\photo\\slideSwitchmaster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\switch_thumb.png",
+        "source": "F:\\oyx\\git\\photo\\slideSwitchmaster\\src\\main\\res\\drawable-hdpi\\switch_thumb.png"
+    },
+    {
+        "merged": "F:\\oyx\\git\\photo\\slideSwitchmaster\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_switch_off.png",
+        "source": "F:\\oyx\\git\\photo\\slideSwitchmaster\\src\\main\\res\\drawable-hdpi\\bg_switch_off.png"
+    }
+]

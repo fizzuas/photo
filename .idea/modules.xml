@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/androidVerticalProgressBar/androidVerticalProgressBar.iml" filepath="$PROJECT_DIR$/androidVerticalProgressBar/androidVerticalProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/photo.iml" filepath="$PROJECT_DIR$/photo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/slideSwitch/slideSwitch.iml" filepath="$PROJECT_DIR$/slideSwitch/slideSwitch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testLibs/testLibs.iml" filepath="$PROJECT_DIR$/testLibs/testLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slideSwitchmaster/slideSwitchmaster.iml" filepath="$PROJECT_DIR$/slideSwitchmaster/slideSwitchmaster.iml" />
       <module fileurl="file://$PROJECT_DIR$/testcircleimg/testcircleimg.iml" filepath="$PROJECT_DIR$/testcircleimg/testcircleimg.iml" />
       <module fileurl="file://$PROJECT_DIR$/testslider/testslider.iml" filepath="$PROJECT_DIR$/testslider/testslider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xSwitch/xSwitch.iml" filepath="$PROJECT_DIR$/xSwitch/xSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xSwitchlib/xSwitchlib.iml" filepath="$PROJECT_DIR$/xSwitchlib/xSwitchlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xVerticalProgressBar/xVerticalProgressBar.iml" filepath="$PROJECT_DIR$/xVerticalProgressBar/xVerticalProgressBar.iml" />
     </modules>
   </component>
 </project>
