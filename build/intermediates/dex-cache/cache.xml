@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_eed75415bb875b30382ed1d8298bb41160e77fce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_13ef220298a5ebf442ddeef100422140af5f6242/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_e070ff641c32ed64e7e42e0f1248d293d26d21e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ceb96fd88b64fc627bbf96a25d5404fadc8e6c64">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99cee3905f807a41603dd6ae7e689f1d7d321f39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="50e952a03abb4b13f20b9eb6becb5254502cc0bf">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_803e9c0ccc9645df70e5f042b17143ab3e62fd6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cc360a78deb0d4150adf5713cc0783c1bd414107/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6f6af898599b8734708e45d8253d4ee54e37899b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4de2113fa19c4dd9be13628796f4ba0468c67b">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_75ff0b1db0b6d70f8067b2ec4665092d0e57d819/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_7ffa69b7de784a6097acd788745d7394ccfdf14f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_0d6fffc3fe26821e1e894b0cb9c663f12cbd779f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f779acb5406b4e2fde78e123aa683f4d1841aa6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_008e107e30f730bce69f8199885cf4ac63eda2a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_ddda3aff0c742566622c09ede941ee49a70adfec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="22bca0969b2b307c0cdda3cd7dd586ba2a0026fb">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ccb4b2c33514baa135992eba838a2b8ce5ac90f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e46db2e54636476b2431c815fa3234c92fe76266/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_483305b7b59d97d16d3f4e3d097fcfbd9b3fa566/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8d13ee841066c23937819b9816f8166ca1e3165d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_886e6ae9788057a6805ae7c093fe74c0f9e4c4bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_5240f1d2a113ed5cb3cde4c90a117eb7c5be0196/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a6399f83e4b9025d2401e6b1837f7a99d4bd3e71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_763731ceb079d8509e8ab75441cc083c9f47d5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_10c668b72df29668944b641dd0f5bf00f7b880da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4f703a3ab9280b33e0f6e61216126ad4907ec2ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_450211d8c908ad036ea2039a5c7d18c1f74a74d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_57b7d9cf8ac8fc2bf5a83763ff943124ee9f0c57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2cc5de6e605fcfa95ab6bbcb8a841ee2f3bc189d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ef5162a382b93525d373cdd3ea5bbf8009793bd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0479e436eccfaa9d6df8f6846b60b87e851e7371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d34950da8b5e71e135fa63b5d90a0d75bf9655b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="746bfe3a54473ab0723d9248b2a40b786ca03b2d">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99cee3905f807a41603dd6ae7e689f1d7d321f39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_cab971a9cc3fe4f1aa7f08823a5541c0f53dfb23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cae039dffbe798837d9c7c27def43d25cb3d72e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="76349a2b1c17e8149f75afd27ea568ae4f0a9c9c">
+        <dex dex="/Users/fizzuas/Documents/git/photo/testsurfaceview/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ccb4b2c33514baa135992eba838a2b8ce5ac90f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_45fb125eb413d84ca86a374ef59cce75e25efbb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fizzuas/Documents/git/photo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/fizzuas/Documents/git/photo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_620fbaa0dce4a69651eb757f992d2f853b56899c/classes.dex" />
+    </item>
+
+</items>

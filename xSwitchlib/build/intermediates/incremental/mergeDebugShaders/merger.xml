@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\oyx\git\photo\xSwitchlib\src\main\shaders"/></dataSet><dataSet config="debug"><source path="F:\oyx\git\photo\xSwitchlib\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/fizzuas/Documents/git/photo/xSwitchlib/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/fizzuas/Documents/git/photo/xSwitchlib/src/debug/shaders"/></dataSet></merger>

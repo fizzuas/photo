@@ -5,14 +5,15 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="F:\oyx\soft\AndroidStudio\gradle\gradle-2.14.1" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/slideSwitchmaster" />
-            <option value="$PROJECT_DIR$/testcircleimg" />
             <option value="$PROJECT_DIR$/testslider" />
+            <option value="$PROJECT_DIR$/testsurfaceview" />
+            <option value="$PROJECT_DIR$/xCircleImg" />
             <option value="$PROJECT_DIR$/xSwitch" />
             <option value="$PROJECT_DIR$/xSwitchlib" />
             <option value="$PROJECT_DIR$/xVerticalProgressBar" />

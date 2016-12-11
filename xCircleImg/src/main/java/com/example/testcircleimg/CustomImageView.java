@@ -53,6 +53,7 @@ public class CustomImageView extends View {
      */
     private int min;
 
+
     public CustomImageView(Context context, AttributeSet attrs) {
         this(context, attrs, 0);
     }
@@ -223,6 +224,7 @@ public class CustomImageView extends View {
      * @param source
      * @return
      */
+
     private Bitmap createRoundConerImage(Bitmap source) {
         final Paint paint = new Paint();
         paint.setAntiAlias(true);

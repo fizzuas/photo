@@ -1,4 +1,4 @@
-include ':app', ':testslider', ':testcircleimg'
+include ':app', ':testslider', ':xCircleImg', ':testsurfaceview'
 include ':xSwitchlib'
 include ':xSwitch'
 include ':xVerticalProgressBar'

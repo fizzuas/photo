@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 113
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/src/main/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 19,
+                        "startOffset": 17,
                         "endColumn": 63,
-                        "endOffset": 78
+                        "endOffset": 76
                     }
                 }
             },
@@ -31,7 +31,7 @@
                     "endOffset": 532
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -52,7 +52,7 @@
                     "endOffset": 957
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -73,7 +73,7 @@
                     "endOffset": 1385
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -94,7 +94,7 @@
                     "endOffset": 1811
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -115,7 +115,7 @@
                     "endOffset": 2238
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -136,7 +136,7 @@
                     "endOffset": 2663
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -156,7 +156,7 @@
                     "endOffset": 2752
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -175,7 +175,7 @@
                     "endOffset": 2853
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -195,7 +195,7 @@
                     "endOffset": 3261
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -216,7 +216,7 @@
                     "endOffset": 3681
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -237,7 +237,7 @@
                     "endOffset": 3788
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 3917
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -278,7 +278,7 @@
                     "endOffset": 3988
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -297,7 +297,7 @@
                     "endOffset": 4071
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 7779
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -338,7 +338,7 @@
                     "endOffset": 11627
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -358,7 +358,7 @@
                     "endOffset": 11718
                 },
                 "from": {
-                    "file": "F:\\oyx\\git\\photo\\xVerticalProgressBar\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "file": "/Users/fizzuas/Documents/git/photo/xVerticalProgressBar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 159,
                         "startColumn": 4,
